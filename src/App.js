@@ -1,8 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import * as Sentry from "@sentry/react";
 
 function App() {
   return <button onClick={methodDoesNotExist}>Break the world</button>;
 }
 
-export default App;
+
+export default Sentry.withProfiler(App);
