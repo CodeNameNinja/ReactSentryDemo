@@ -103,7 +103,7 @@ Start the server
 
 ## Screenshots
 
-![Issues](https://ibb.co/n8PSchk)
-![Performance](https://ibb.co/B2DvQ9f)
+![Issues](https://i.ibb.co/x8FQjV5/issues.png)
+![Performance](https://i.ibb.co/d49XVRf/Performance.png)
 
   
