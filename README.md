@@ -17,7 +17,7 @@ It gives insights into how your application is running and pick up errors and al
   
 ## Installation
 
-Install my-project with npm
+Install sentry with npm
 
 ```bash
 # Using npm
@@ -85,7 +85,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd sentry-react
+  cd sentry-demo
 ```
 
 Install dependencies
